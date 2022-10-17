@@ -1,4 +1,4 @@
-"use strict";
+
 
 var _convertPLNToUSD = require("../../convertPLNToUSD");
 
